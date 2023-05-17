@@ -1,3 +1,2 @@
-# Byte-compiled / optimized / DLL files
-Project_1_UofM_Data/config.py
-Project_1_UofM_Data/.DS_Store
+*.py
+*.DS_Store
