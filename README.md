@@ -1,4 +1,5 @@
 # Project_1_UofM_data
+
 GOAL - To see if RountableRx  is serving patients as efficiently as possible.
 RoundtableRx would like their patient population analyzed to see if they are positively impacting the lives of the most disadvantaged Minnesotans. RoundtableRx desires to study the utilization of their services in MN.
 Discuss RountableRx’s mission.
