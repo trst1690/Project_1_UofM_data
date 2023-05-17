@@ -1,8 +1,8 @@
 # Project_1_UofM_data
 
 ## GOAL 
-To see if RountableRx  is serving patients as efficiently as possible.
-RoundtableRx would like their patient population analyzed to see if they are positively impacting the lives of the most disadvantaged Minnesotans. RoundtableRx desires to study the utilization of their services in MN.
+* To see if RountableRx  is serving patients as efficiently as possible.
+* RoundtableRx would like their patient population analyzed to see if they are positively impacting the lives of the most disadvantaged Minnesotans. RoundtableRx desires to study the utilization of their services in MN.
 Discuss RountableRx’s mission.
 Explain ADI rankings and connect them to health outcomes.
 Examine RoundtableRx patient ADI rankings vs MN population rankings.
@@ -28,5 +28,5 @@ Step 7. Make mapplots to show the location of repositories and density of patien
 Step 8. Make scatter plots and regression lines to find the correaltion between the ADIRANKS and the prenatal care.
 
 ## CONCLUSION
-We found that RountableRx is postively serving the disadvantaged community in Minnesota. Most of their patients have high ADITSTATE RANK. The RoundtableRx need mre repositories in northwestern, northeastern and southwestern areas. 
+We found that RountableRx is positively serving the disadvantaged community in Minnesota. Most of their patients have high ADITSTATE RANK. The RoundtableRx need mre repositories in northwestern, northeastern and southwestern areas. 
 
