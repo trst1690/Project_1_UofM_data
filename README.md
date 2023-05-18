@@ -1,4 +1,4 @@
-# Project_1_UofM_data
+# Analyzing Healthcare Services Using Patient ADI Ranks
 
 ## BACKGROUND
 RoundtableRx runs Minnesota's Medication Repository. Their mission is to offer safe and affordable medication to Minnesotans in need, provide continuity of care, and reduce waste by redistributing unused medications. Currently, RoundtableRx partners with 22 local repository locations across MN to get unused medications into the hands of uninsured and underinsured Minnesota residents. RoundtableRx would like their patient population analyzed to see if they are positively impacting the lives of the most disadvantaged Minnesotans. 
