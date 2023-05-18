@@ -43,7 +43,7 @@ Comparing locations of patients and locations of local repositories, it’s inte
 
 As RoundtableRx's patient poplation grows, the strength of the findings will also improve and we'd recommend that they rerun this analysis for updated results periodically to see if business decisions have resulted in improved patient ADI metrics. 
 
-Since ADI rankings have been connected with poor health outcomes such as diabetes and cardiovascular disease, our group was interested to see if they corrolate to quality of prenatal care. If they did, we'd expect the rates of inadequate prenatal care to increase with ADI rank and rates of intensive prenatal care to decrease with ADI rank. The corrolation value is very low in both regressions, therefore we can conclude that there is not a relationship between ADI rank and quality of prenatal care.
+Since ADI rankings have been connected with poor health outcomes such as diabetes and cardiovascular disease, our group was interested to see if they correlate to quality of prenatal care. If they did, we'd expect the rates of inadequate prenatal care to increase with ADI rank and rates of intensive prenatal care to decrease with ADI rank. The corrolation value is very low in both regressions, therefore we can conclude that there is not a relationship between ADI rank and quality of prenatal care.
 
 Sources:
 * https://www.neighborhoodatlas.medicine.wisc.edu/
